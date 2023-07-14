@@ -2,6 +2,12 @@
 
 Simpel Code Editor adalah sebuah alat yang baru yang kami buat untuk membantu Anda dalam mengedit dan melihat pratinjau kode HTML secara langsung. Dengan Simpel Code Editor, Anda dapat dengan mudah menulis, mengedit, dan menguji kode HTML tanpa harus menggunakan aplikasi atau platform lain.
 
+## Screenshot
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wanzxploit/Simpel-Code-Editor/main/code.png" alt="Simpel Code Editor Screenshot" width="300px">
+</div>
+
 ## Fitur Utama
 
 1. **Editor Kode**: Simpel Code Editor menyediakan editor teks yang sederhana dan mudah digunakan untuk menulis dan mengedit kode HTML. Anda dapat langsung mengetikkan kode HTML di editor ini.
@@ -46,8 +52,9 @@ Setelah Anda menyalin kode di atas ke editor, Anda dapat melihat pratinjau hasil
 
 ## Menjalankan Simpel Code Editor
 
-Anda dapat menjalankan Simpel Code Editor dengan mengaksesnya melalui tautan berikut: [Simpel Code Editor](#).
+Anda dapat menjalankan Simpel Code Editor (demo) dengan mengaksesnya melalui tautan berikut: [Simpel Code Editor](http://xploitkit.html-5.me/tools/code.php).
 
 Setelah membuka halaman tersebut, Anda dapat mulai menulis, mengedit, dan melihat pratinjau kode HTML Anda dengan mudah.
 
-Sekarang, Anda dapat menggunakan Simpel Code Editor untuk mempercepat proses pengembangan dan pengujian kode HTML Anda. Nikmati kemudahan dan kepraktisannya!￼Enter
+Sekarang, Anda dapat menggunakan Simpel Code Editor untuk mempercepat proses pengembangan dan pengujian kode HTML Anda. Nikmati kemudahan dan kepraktisannya!
+``
